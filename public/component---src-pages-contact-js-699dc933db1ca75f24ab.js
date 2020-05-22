@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),u=n("Bl7J"),c=n("hIod");t.default=function(){return l.a.createElement(u.a,null,l.a.createElement(c.a,{title:"Contact"}),l.a.createElement("h1",null,"Contact me"),l.a.createElement("h3",null," if you want a beautiful site "))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-699dc933db1ca75f24ab.js.map

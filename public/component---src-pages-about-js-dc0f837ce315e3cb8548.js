@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),u=n("hIod");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(u.a,{title:"About"}),l.a.createElement("h1",null,"About our company"),l.a.createElement("h3",null,"We are the best"),l.a.createElement("p",null," site makers in the Universe"))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-dc0f837ce315e3cb8548.js.map
