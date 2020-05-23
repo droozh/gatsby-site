@@ -16,7 +16,6 @@ export const query = graphql`
     }
   }
 `
-
 const Blog = props => {
   const options = {
     renderNode: {
